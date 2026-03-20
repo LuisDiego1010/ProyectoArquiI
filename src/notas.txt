@@ -1,0 +1,10 @@
+Juan Perez 85
+Maria Salas 90
+Carlos Mendez 70
+Ana 85
+Luis 100
+Pedro 60
+Sofia Fernandez 85
+Diego 90
+Elena 70
+Roberto 40
